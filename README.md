@@ -1,5 +1,10 @@
 # Navigation, Mapping, and Localization Algorithms 🛰️
 
+![Python](https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/Library-OpenCV-5C3EE8?style=flat-square&logo=opencv)
+![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Pangolin](https://img.shields.io/badge/Visualization-Pangolin-orange?style=flat-square)
+
 ### 🧠 Core Competencies Developed
 
 #### 1. Bayesian Estimation & Filtering
